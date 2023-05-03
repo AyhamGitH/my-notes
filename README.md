@@ -1,2 +1,29 @@
 # my-notes
-This is for testing
+Test
+
+# Introduction about myself
+*My name is __Ayham Bani Yasin__, I am a __power engineer__ and I am passionate about __programming__*. I have been fascinated by the world of programming since I first learned about it. I believe that programming is a powerful tool that can be used to automate tasks, analyze large data sets, and find solutions to complex problems. I am always eager to learn new programming techniques and keep up to date with the latest developments in the field. My ultimate goal is to use my programming skills to make a positive impact on society and contribute to innovative solutions in various fields.
+
+# Summarizing the article
+[you can see the article through here](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) 
+<br><br>
+The purpose of software is to help people, and bad software is complex and doesn't serve its purpose. Software design aims to make developers' jobs easier so they can focus on making software helpful to users for a long time. The two key goals of software design are to make the design easy for developers and helpful for users.
+<br><br>
+Developers who don't understand their work tend to develop complex systems, and understanding is key to good software design. Simplicity is crucial to good programming, and bad developers fail to reduce complexity while good developers strive to make code simple and easy to understand for other programmers. Creating overly complex code to show off intelligence is a mistake, as simplicity is a sign of intelligence. The goal should be to make code stupidly simple so that anyone can understand it easily.
+<br><br>
+The article emphasizes the importance of simplicity in software development and how complexity can lead to failure and difficulties in maintenance. It advises developers to fully understand the systems they work with, create simple code that is easy to understand, and resist unnecessary changes to prevent adding complexity to their software. The article also highlights the importance of code maintenance and suggests that developers should consider future maintenance during the development process and focus on reducing the effort of maintenance rather than implementation.
+<br><br>
+This passage discusses four important principles in software development: complexity, maintenance, consistency, and prioritizing. The author emphasizes the importance of controlling complexity and considering future maintenance when developing software. Consistency is also crucial in making code easy to understand and maintain. When deciding which features to implement, the desirability of a change should be directly proportional to the value of the change and inversely proportional to the effort required to implement the change.
+<br><br>
+The author of "Code Simplicity" provides advice on how to create simple, easy-to-understand code. The key points include prioritizing the most valuable changes with the least amount of effort, breaking down complex problems into smaller tasks, focusing on solving the problem rather than achieving perfection, and avoiding unnecessary complexity. The author emphasizes the importance of consistency and the dangers of trying to predict future requirements.
+<br><br>
+The article provides several tips for software development, including understanding the problem, dividing it into smaller tasks, focusing on good enough instead of perfection, avoiding assumptions and reinventing the wheel, and resisting unnecessary changes. The author stresses the importance of prioritizing and knowing the purpose of the software.
+<br><br>
+The article provides several tips for software development, including understanding the problem, dividing it into smaller tasks, focusing on good enough instead of perfection, avoiding assumptions and reinventing the wheel, and resisting unnecessary changes. The author stresses the importance of prioritizing and knowing the purpose of the software.
+<br><br>
+The article discusses several common mistakes made by developers, including underestimating project requirements, avoiding code rewriting, misunderstanding the purpose of commenting and documentation, and making poor technology choices. The author suggests breaking down projects into smaller parts for better estimation, refactoring instead of rewriting code, focusing on explaining "why" rather than "what" in comments, creating documentation to provide a high-level view of software, and carefully evaluating external technologies before using them.
+<br><br>
+The article discusses several common mistakes made by developers, including underestimating project requirements, avoiding code rewriting, misunderstanding the purpose of commenting and documentation, and making poor technology choices. The author suggests breaking down projects into smaller parts for better estimation, refactoring instead of rewriting code, focusing on explaining "why" rather than "what" in comments, creating documentation to provide a high-level view of software, and carefully evaluating external technologies before using them.
+<br><br>
+# In summary
+The passage emphasizes the importance of simplicity in software development and highlights the dangers of complexity, such as difficulties in maintenance. It provides tips for creating simple code, including understanding the problem, breaking it down into smaller tasks, and avoiding unnecessary changes. The author also discusses common mistakes made by developers, such as underestimating project requirements and making poor technology choices, and suggests solutions, such as breaking down projects into smaller parts for better estimation and carefully evaluating external technologies before using them. The key goals of software design are to make the design easy for developers and helpful for users.
